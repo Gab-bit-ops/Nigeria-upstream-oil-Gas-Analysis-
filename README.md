@@ -1,4 +1,4 @@
-# Nigerian Upstream Oil & Gas Performance Dashboard
+# Nigerian Upstream Oil & Gas Performance Dashboard(2024-2025)
 
 An end-to-end analysis of Nigerian upstream oil & gas operations — cleaned in Excel with Power Query, validated with pivot tables, and visualized in an interactive Power BI dashboard.
 
